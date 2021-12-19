@@ -10,5 +10,10 @@
     .buttons {
         display: flex;
         justify-content: space-between;
+        text-align: center;
+    }
+
+    .custom-buttons {
+        text-align: center;
     }
 }
